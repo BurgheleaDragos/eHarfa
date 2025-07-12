@@ -1,0 +1,4 @@
+[submodule "eHarfa.mobile"]
+	path = eHarfa.mobile
+	url = ../../eHarfa.mobile.git
+	branch = DEV
