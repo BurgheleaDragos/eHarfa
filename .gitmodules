@@ -1,0 +1,3 @@
+[submodule "eHarfa.Wrapper/eHarfa.Mobile.App"]
+	path = eHarfa.Wrapper/eHarfa.Mobile.App
+	url = https://github.com/BurgheleaDragos/eHarfa.Mobile.App.git
